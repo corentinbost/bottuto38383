@@ -1,0 +1,15 @@
+{
+    "token": "MTAwODA0MTg1NzE3NzExMjY1Nw.GVk8kr.V6QgHV0KM1rwHb1_9VrUuln_Ln0BFyZskPm84w",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "blakya",
+    "emoji": {
+        "oui": "<:blakya_oui:1008052218957660280>",
+        "non": "<:blakya_non:1008052244249317386>"
+    },
+    "color": {
+        "err": "#FF0000",
+        "succes": "#0dff00"
+    }
+}
